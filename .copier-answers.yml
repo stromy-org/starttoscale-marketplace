@@ -1,0 +1,12 @@
+# Changes here will be overwritten by Copier; DO NOT edit manually.
+_commit: 75cb640
+_src_path: scaffolds/claude-marketplace-template
+author_name: William Masquelier
+client_name: Start to Scale
+client_slug: starttoscale
+github_org: stromy-org
+marketplace_name: Start to Scale Plugin Marketplace
+marketplace_slug: starttoscale-marketplace
+plugin_description: Claude Code plugin for Start to Scale branded deliverables — stromy-format
+    rendering + deliverable-canvas planning + asset-editor + feedback
+plugin_slug: starttoscale-plugin

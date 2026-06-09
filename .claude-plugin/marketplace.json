@@ -1,0 +1,22 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "starttoscale-marketplace",
+  "description": "Plugin marketplace for Start to Scale Claude Code plugins",
+  "owner": {
+    "name": "stromy-org"
+  },
+  "plugins": [
+    {
+      "name": "starttoscale",
+      "description": "Claude Code plugin for Start to Scale branded deliverables — stromy-format rendering + deliverable-canvas planning + asset-editor + feedback",
+      "version": "0.1.0",
+      "author": {
+        "name": "William Masquelier"
+      },
+      "source": {
+        "source": "url",
+        "url": "https://github.com/stromy-org/starttoscale-plugin.git"
+      }
+    }
+  ]
+}
