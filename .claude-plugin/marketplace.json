@@ -9,7 +9,7 @@
     {
       "name": "starttoscale",
       "description": "Claude Code plugin for Start to Scale branded deliverables — stromy-format rendering + markdown-canvas deliverable planning + asset-editor + feedback",
-      "version": "0.4.14",
+      "version": "0.4.15",
       "author": {
         "name": "William Masquelier"
       },
